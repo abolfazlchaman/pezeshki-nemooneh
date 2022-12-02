@@ -1,7 +1,4 @@
-@font-face {
-    font-family: iransans;
-    src: url(//resources/FontsFree-Net-ir_sans.ttf);
-}
+@import url('https://v1.fontapi.ir/css/Shabnam');
 p{
     text-align: justify !important;
 }
@@ -19,7 +16,7 @@ img{
 /* Padding below the footer and lighter body text */
 
 body {
-    font-family: iransans !important;
+    font-family: Shabnam, sans-serif !important;
     padding-top: 3rem;
     padding-bottom: 3rem;
     color: #5a5a5a;
